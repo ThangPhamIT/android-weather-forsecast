@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="mode_inactive">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">2</item>
+        <item name="android:shadowDy">2</item>
+        <item name="android:shadowRadius">16</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="mode_activated">
+        <item name="android:textColor">#004040</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:shadowColor">#003000FF</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">0</item>
+        <item name="android:shadowRadius">10</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+</resources>

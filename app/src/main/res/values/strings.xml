@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+
+    <string name="action_settings">Settings</string>
+    <string-array name="name_function_weather">
+        <item>Weather current location of the devices.</item>
+        <item>Weather of any address.</item>
+        <item>Weather of any location.</item>
+        <item>Weather of any location and the \nnext 3 days.</item>
+        <item>Watch weather on Google Maps.</item>
+    </string-array>
+    <string name="loading_data">Loading Data</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="title_activity_weather_current_location">WeatherCurrentLocation</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="address">Address:</string>
+    <string name="temperature">Temperature:</string>
+    <string name="sky">Sky:</string>
+    <string name="detail_weather">Detail Weather</string>
+
+</resources>
